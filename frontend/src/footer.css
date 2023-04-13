@@ -1,0 +1,23 @@
+.foot {
+    width: 100%;
+    height: 11vh;
+    background-color: #ECF4FC;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 45%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}

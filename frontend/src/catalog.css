@@ -1,0 +1,22 @@
+.catCon {
+    width: 80vw;
+    /* border: 1px solid black; */
+}
+
+.goBackImg {
+    width: 0.5vw;
+    margin-right: 0.5vw;
+}
+
+.goBackCon {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2vw;
+}
+
+.goBack {
+    font-weight: 600;
+    color: #745DCD;
+    text-decoration: none;
+    font-size: 14px;
+}
